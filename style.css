@@ -1,0 +1,28 @@
+body{
+font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+    font-weight: 900;
+}
+.orange{
+    color: orange;
+}
+.top-sec{
+    display: flex;
+}
+.hlf-width{
+    width: 40%;
+}
+.hlf-width img{
+    width: 90%;
+}
+.anchor-tab{
+    text-decoration: none;
+    background: linear-gradient(60deg, rgb(142, 142, 230), deeppink);
+    padding: 9px 40px;
+    border-radius: 9%;
+    color: azure;
+    font-weight: 700;
+
+}
